@@ -22,7 +22,7 @@ export function ThemeToggle() {
         size="sm"
         onClick={() =>
           window.open(
-            "Resume link - https://drive.google.com/file/d/1KJN3ByrsTKd6EFOcW-byKUxeb4dGOkQI/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1KJN3ByrsTKd6EFOcW-byKUxeb4dGOkQI/view?usp=drivesdk",
             "_blank",
           )
         }

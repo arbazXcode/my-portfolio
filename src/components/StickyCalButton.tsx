@@ -64,7 +64,7 @@ const StickyCalButton = () => {
             className="hover:text-primary hover:bg-primary/10"
             onClick={() =>
               window.open(
-                "Resume link - https://drive.google.com/file/d/1KJN3ByrsTKd6EFOcW-byKUxeb4dGOkQI/view?usp=drivesdk",
+                "https://drive.google.com/file/d/1KJN3ByrsTKd6EFOcW-byKUxeb4dGOkQI/view?usp=drivesdk",
                 "_blank",
               )
             }
