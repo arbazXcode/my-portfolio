@@ -70,7 +70,7 @@ const Hero = () => {
               className=" px-8 py-3 border-slate-700"
               onClick={() =>
                 window.open(
-                  "https://calendly.com/singhadarsh9540/30min",
+                  "https://calendly.com/arbaz-alam/30min",
                   "_blank",
                 )
               }
